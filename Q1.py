@@ -1,3 +1,6 @@
+#program to print a string
+
+
 #inputting a string 
 name = input("Enter your name? \n")
 
