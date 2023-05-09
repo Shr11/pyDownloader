@@ -4,7 +4,7 @@ from math import sqrt
 
 #taking coeff a ,b and c 
 
-a,b,c= map(int,input("Enter coefficients a,b & c in ax^2 + bx +c = 0 ~~~" ).split())
+a,b,c= map(int,input("Enter coefficients a,b & c in ax^2 + bx +c = 0 ~~~ " ).split())
 
 determinant = (b**2 - (4*a*c))
     
