@@ -1,4 +1,4 @@
-#showcasing uses of following operators
+#showcasing uses of arithmetic,logical,bitwise,relational,assignment and membership operators
 
 a = 1
 b = 2
